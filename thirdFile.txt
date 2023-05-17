@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 emergency-fix
+=======
+new branch
+>>>>>>> NewBranch
