@@ -2,6 +2,13 @@ new file created
 
 adding another line
 
+<<<<<<< HEAD
 random things updated
 
+<<<<<<< HEAD
+=======
+random things updated
+>>>>>>> parent of 802d52c (Fourth commit)
+=======
 added again
+>>>>>>> parent of ac850b8 (Fifth commit)
